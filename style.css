@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+}
+.abc a{
+text-decoration: none;
+color:black;
+}
+.abc a:hover{
+    color:dodgerblue;
+}
+.xyz{
+    display:flex;
+    justify-content: space-evenly;
+}
+.xyz a{
+  text-decoration: none;
+  color:black;
+  padding: 15px;
+}
+.xyz a:hover{
+    color:dodgerblue;
+}
